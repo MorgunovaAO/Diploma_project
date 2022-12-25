@@ -221,6 +221,6 @@ LambdaTest - онлайн-сервис, где можно запускать к�
 
 4. Как проверить валидность HTML / Skillbox Media: https://skillbox.ru/media/code/kak_proverit_pravilnost_validnost_gotovogo_html_koda/?ysclid=lbzg9g9sjj811774402
 
-5. Realtime Browser Test: lambdatest.com
+5. Realtime Browser Test: https://lambdatest.com/
 
 6. The W3C Markup Validation Service: https://validator.w3.org/
