@@ -6,3 +6,4 @@
 
 Мы проделали большую работу и теперь нам остается подвести итоги. С помощью Google Docs создадим отчет о тестировании и затем сохраним его в формате PDF.
 
+Ссылка на отчет в Google Docs: https://docs.google.com/document/d/1e-rOJSK-MCJqNslIQgIzCL3AdJRJ4EFJoJLv2qrKlDE/edit?usp=sharing .
