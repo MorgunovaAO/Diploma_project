@@ -43,7 +43,7 @@
 * Веб-приложение, на котором проводилось тестирование: https://rivegauche.ru/ .
 
 * Инструменты, которые использовались во время тестирования: Google
-Sheets, DevTools, Qase.io, TestRail, Jira, LambdaTest, валидатор W3C, GitHub, Visual Studio Code, FastStone Capture 7.2.
+Sheets, DevTools, Qase.io, TestRail, LambdaTest, валидатор W3C, GitHub, Visual Studio Code, FastStone Capture 7.2.
 
 * Указание на техническую документацию: "Техническая документация отсутствует".
 
