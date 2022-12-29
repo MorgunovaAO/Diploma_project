@@ -16,7 +16,7 @@
 
 6. Разработать предложения по улучшению ручного тестирования веб-приложения РИВ ГОШ.  
 
-### **Инструменты**: Google Sheets, DevTools, Qase.io, TestRail, Jira, LambdaTest, валидатор W3C, GitHub, Visual Studio Code, FastStone Capture 7.2.   
+### **Инструменты**: Google Sheets, DevTools, Qase.io, TestRail,LambdaTest, валидатор W3C, GitHub, Visual Studio Code, FastStone Capture 7.2.   
 
 ### **Структура дипломного проекта**:    
 
